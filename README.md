@@ -3,7 +3,7 @@
 ### Category:
 Computer Graphics
 
-### Sub-category:
+### Type:
 Project
 
 ### Details:
