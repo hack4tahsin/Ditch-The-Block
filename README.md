@@ -2,7 +2,7 @@
 
 Category: Computer Graphics
 
-Sub-category: project
+Sub-category: Project
 
 Details: The objective is to ditch blocks with the help of a ball.
 
