@@ -3,8 +3,8 @@
 ### Category:
 Computer Graphics
 
-### Type:
-Project
+### Project Type:
+Game
 
 ### Language:
 Python
