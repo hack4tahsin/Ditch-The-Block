@@ -6,6 +6,12 @@ Computer Graphics
 ### Type:
 Project
 
+### Language:
+Python
+
+### Tools:
+Anaconda Navigator
+
 ### Details:
 The objective is to ditch blocks with the help of a ball.
 
