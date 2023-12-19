@@ -1,5 +1,7 @@
 # Ditch The Block
 
+![ditch the ball](https://img.shields.io/badge/Python-3.11.4-FDB515?style=for-the-badges&logo=Python)
+
 ### Category:
 Computer Graphics
 
