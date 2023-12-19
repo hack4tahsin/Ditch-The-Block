@@ -1,6 +1,6 @@
 # Ditch The Block
 
-![python](https://img.shields.io/badge/Python-3.11.4-FDB515?style=for-the-badges&logo=Python) ![anaconda](https://img.shields.io/badge/Anaconda Navigator-2.4.3-00B27$?style=for-the-badges&logo=Anaconda)
+![python](https://img.shields.io/badge/Python-3.11.4-FDB515?style=for-the-badges&logo=Python) ![anaconda](https://img.shields.io/badge/anaconda Navigator-2.4.3-00B27$?style=for-the-badges&logo=anaconda)
 
 ### Category:
 Computer Graphics
