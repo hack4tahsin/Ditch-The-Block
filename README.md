@@ -22,5 +22,8 @@ Handling movement of the ball.
 The ball and blocks will animate while doing the movement. Thus, it will update the score and reduce the life span according to the scenario.
 
 ### Sample Image:
-
 ![ditch the ball](https://github.com/hack4tahsin/Ditch-The-Block/assets/54511117/4227a0c5-77e8-44ce-8698-e3f448263b04)
+
+### Sample Video:
+https://github.com/hack4tahsin/Ditch-The-Block/assets/54511117/046c6929-ea12-414f-943a-ce7de6c354ff
+
