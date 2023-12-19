@@ -30,5 +30,9 @@ The ball and blocks will animate while doing the movement. Thus, it will update 
 ### Sample Image:
 ![ditch the ball](https://github.com/hack4tahsin/Ditch-The-Block/assets/54511117/4227a0c5-77e8-44ce-8698-e3f448263b04)
 
+The game is over When health becomes zero.
+
+![Ditch The Ball (Game Over)](https://github.com/hack4tahsin/Ditch-The-Block/assets/54511117/94638422-0dff-48ea-b0b4-6d1d5fb9ec7a)
+
 ### Sample Video:
 https://github.com/hack4tahsin/Ditch-The-Block/assets/54511117/d0ee3a49-dee2-498d-a8c1-1d2369443458
